@@ -1,4 +1,4 @@
-# Internal Tools -- SBDC Workflow and Productivity
+# Internal Tools - SBDC Workflow and Productivity
 
 ## About This Work
 
