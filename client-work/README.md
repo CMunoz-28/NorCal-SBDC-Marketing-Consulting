@@ -10,25 +10,25 @@ State University.
 
 The SBDC's mandate is advising, not service delivery: my role is to teach
 frameworks and build client capacity, not to produce finished work a client
-would otherwise pay an agency for. Every deliverable in this folder reflects
+would otherwise pay an agency for. Every template in this folder reflects
 that philosophy — they are structured for clients to fill in, execute, and
 own themselves, not polished deliverables I hand off complete.
 
-Note on confidentiality: Most clients are anonymized (Client-A through Client-F)
-to protect their privacy. One client, EB Cosmetic & Reconstructive Surgery,
-has been identified by name with their knowledge.
+Note on confidentiality: SBDC clients sign a confidentiality agreement as
+part of intake. Nothing in this repository identifies a specific client,
+business, or session. Everything here is a generalized, reusable template
+or framework drawn from patterns across many engagements.
 
 ## Clients
 
-| Folder | Client | Industry | Deliverables |
-|---|---|---|---|
-| Client-A | Anonymous | Food & Beverage | Social media strategy, social media audit, SEO keywords, website audit, one-pager |
-| Client-B | Anonymous | B2B SaaS / Services | Marketing strategy, LinkedIn strategy, Zoho email marketing, Buffer onboarding |
-| Client-C | Anonymous | Professional Services | Zoho CRM walkthrough, Buffer walkthrough, session one-pager |
-| Client-D | Anonymous | Community Organization | Marketing strategy, website SEO audit |
-| Client-E | Anonymous | Local Services | AI-assisted outreach guide |
-| Client-F | Anonymous | Early Childhood Education | Session prep, Facebook vs. Google Ads comparison, Instagram content calendar |
-| EB-Cosmetic-Reconstructive-Surgery | EB Cosmetic & Reconstructive Surgery | Medical / Healthcare | Brand repositioning, website SEO audit, UX wireframing, design assets, content migration, CMS strategy |
+| Folder | Industry | Deliverables |
+|---|---|---|
+| Client-A | Food & Beverage | Social media strategy, social media audit, SEO keywords, website audit, one-pager |
+| Client-B | B2B SaaS / Services | Marketing strategy, LinkedIn strategy, Zoho email marketing, Buffer onboarding |
+| Client-C | Professional Services | Zoho CRM walkthrough, Buffer walkthrough, session one-pager |
+| Client-D | Community Organization | Marketing strategy, website SEO audit |
+| Client-E | Local Services | AI-assisted outreach guide |
+| Client-F | Early Childhood Education | Session prep, Facebook vs. Google Ads comparison, Instagram content calendar |
 
 ## Engagement Process
 
@@ -64,9 +64,6 @@ Types of deliverables produced across engagements:
 - **Marketing workbook templates** — intake-style worksheets that help a
   client articulate their UVP, target audience, competitive positioning,
   and channel priorities in their own words.
-
-- **Design and UX deliverables** — wireframes, mockups, site maps, logo
-  concepts, and brand assets produced for website transformation projects.
 
 ## Methodology
 
