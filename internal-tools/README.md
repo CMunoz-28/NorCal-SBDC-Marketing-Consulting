@@ -1,4 +1,4 @@
-# Internal Tools - SBDC Workflow and Productivity
+# Internal Tools — SBDC Workflow and Productivity
 
 ## About This Work
 
@@ -9,21 +9,21 @@ client-facing materials, and contain no client-identifying information.
 
 ## What's in This Folder
 
-- **Task management templates** -- a consistent project/task structure
+- **Task management templates** — a consistent project/task structure
   (opening summary, Primary Goal, Context, Objectives, Next Steps, with
   deliverables tracked as subtasks) used across all client engagements in
   Asana, scheduled on a 2-3 day cadence to keep work moving steadily.
 
-- **Session logging templates** -- structured formats for documenting
+- **Session logging templates** — structured formats for documenting
   advising sessions (description, problem analysis, actions taken,
   follow-up, scope hours remaining) consistent with SBDC reporting
   requirements.
 
-- **Pre-session research checklists** -- repeatable frameworks for
+- **Pre-session research checklists** — repeatable frameworks for
   preparing for a new or returning client session (online presence audits,
   discovery question banks, agenda templates).
 
-- **Scope and hours tracking helpers** -- lightweight tools for monitoring
+- **Scope and hours tracking helpers** — lightweight tools for monitoring
   hours remaining against approved client scope and flagging when an
   extension request is needed.
 
