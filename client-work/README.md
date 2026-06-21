@@ -1,4 +1,4 @@
-# Client Work -- SBDC Marketing Advisory Templates
+# Client Work - SBDC Marketing Advisory Templates
 
 ## About This Work
 
