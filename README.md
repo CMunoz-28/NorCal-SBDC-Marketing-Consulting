@@ -82,7 +82,7 @@ AI-assisted outreach guide with tactics for local customer acquisition. [View fo
 Session prep materials, Facebook vs. Google Ads comparison, and Instagram content calendar. [View folder →](client-work/Client-F/)
 
 ### Client-G — Healthcare / Chiropractic
-SEO and messaging audit, three-phase patient outreach strategy, two-platform social media strategy with Buffer/Instagram/TikTok setup, and patient retention post templates. [View folder →](client-work/Client-G/)
+SEO and messaging audit, patient outreach strategy, social media strategy, and retention content templates. [View folder →](client-work/Client-G/)
 
 ---
 
