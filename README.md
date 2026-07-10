@@ -41,12 +41,12 @@ Client names have been anonymized to protect confidentiality.
 │   ├── Client-E/   — AI-assisted outreach guide
 │   ├── Client-F/   — Session prep, ad platform comparison, Instagram content calendar
 │   ├── Client-G/   — SEO & messaging audit, patient outreach strategy, social media strategy, retention post templates
-│   ├── Client-H/   — Retail / eCommerce engagement
-│   ├── Client-I/   — Language services engagement
-│   ├── Client-J/   — Beauty & wellness engagement
-│   ├── Client-K/   — Professional services engagement
-│   ├── Client-L/   — Food & beverage engagement
-│   └── Client-M/   — Local services engagement
+│   ├── Client-H/   — Digital advertising strategy, conversion optimization
+│   ├── Client-I/   — Marketing strategy, trade show and conference guide
+│   ├── Client-J/   — Brand positioning, social media strategy, digital marketing plan
+│   ├── Client-K/   — Marketing audit, competitive research, go-to-market strategy
+│   ├── Client-L/   — Social media content planning, SEO recommendations, campaign strategy
+│   └── Client-M/   — Customer segmentation, outreach strategy, marketing planning
 │
 └── internal-tools/
     ├── templates/  — 11 reusable frameworks built for client engagements
@@ -61,31 +61,32 @@ Each folder contains deliverables produced across advising sessions. Work typica
 
 | Client | Industry | Focus | Folder |
 |---|---|---|---|
-| Client-A | Food & Beverage | Social media strategy, SEO keywords, website audit | [View →](client-work/Client-A/) |
-| Client-B | B2B SaaS / Professional Services | Full marketing strategy, LinkedIn growth, CRM and email setup | [View →](client-work/Client-B/) |
-| Client-C | Professional Services | CRM walkthrough, social scheduling setup, session deliverables | [View →](client-work/Client-C/) |
-| Client-D | Nonprofit / Community Services | Marketing strategy, technical SEO audit | [View →](client-work/Client-D/) |
-| Client-E | Local Service Business | AI-assisted outreach guide for local customer acquisition | [View →](client-work/Client-E/) |
-| Client-F | Early Childhood Education | Ad platform comparison, Instagram content calendar, session prep | [View →](client-work/Client-F/) |
-| Client-G | Healthcare / Chiropractic | SEO audit, patient outreach strategy, social media strategy, retention content | [View →](client-work/Client-G/) |
-| Client-H | Retail / eCommerce | Digital advertising strategy, conversion optimization | [View →](client-work/Client-H/) |
-| Client-I | Language Services | Marketing strategy, trade show and conference guide | [View →](client-work/Client-I/) |
-| Client-J | Beauty & Wellness | Brand positioning, social media strategy, digital marketing plan | [View →](client-work/Client-J/) |
-| Client-K | Professional Services | Marketing audit, competitive research, go-to-market strategy | [View →](client-work/Client-K/) |
-| Client-L | Food & Beverage | Social media content planning, SEO recommendations, campaign strategy | [View →](client-work/Client-L/) |
-| Client-M | Local Services | Customer segmentation, outreach strategy, marketing planning | [View →](client-work/Client-M/) |
+| Client-A | Food & Beverage | Social media strategy, SEO keywords, website audit | [View](client-work/Client-A/) |
+| Client-B | B2B SaaS / Professional Services | Full marketing strategy, LinkedIn growth, CRM and email setup | [View](client-work/Client-B/) |
+| Client-C | Professional Services | CRM walkthrough, social scheduling setup, session deliverables | [View](client-work/Client-C/) |
+| Client-D | Nonprofit / Community Services | Marketing strategy, technical SEO audit | [View](client-work/Client-D/) |
+| Client-E | Local Service Business | AI-assisted outreach guide for local customer acquisition | [View](client-work/Client-E/) |
+| Client-F | Early Childhood Education | Ad platform comparison, Instagram content calendar, session prep | [View](client-work/Client-F/) |
+| Client-G | Healthcare / Chiropractic | SEO audit, patient outreach strategy, social media strategy, retention content | [View](client-work/Client-G/) |
+| Client-H | Retail / eCommerce | Digital advertising strategy, conversion optimization | [View](client-work/Client-H/) |
+| Client-I | Language Services | Marketing strategy, trade show and conference guide | [View](client-work/Client-I/) |
+| Client-J | Beauty & Wellness | Brand positioning, social media strategy, digital marketing plan | [View](client-work/Client-J/) |
+| Client-K | Professional Services | Marketing audit, competitive research, go-to-market strategy | [View](client-work/Client-K/) |
+| Client-L | Food & Beverage | Social media content planning, SEO recommendations, campaign strategy | [View](client-work/Client-L/) |
+| Client-M | Local Services | Customer segmentation, outreach strategy, marketing planning | [View](client-work/Client-M/) |
+
+---
 
 ## Internal Tools & Templates
 
-[View the full internal tools library →](internal-tools/)
+[View the full internal tools library](internal-tools/)
 
 Reusable frameworks and trackers developed to support structured, consistent client engagements across 13+ advisory relationships.
 
-### Templates (11 files)
-Strategy docs, audit frameworks, reporting templates, and segmentation guides built to be reused and adapted across industries.
-
-### Trackers (13 files)
-Excel workbooks for 90-day planning, content calendars, budget allocation, RFM segmentation, paid media performance, and session management.
+| Type | Count | Contents |
+|---|---|---|
+| Templates | 11 | Strategy docs, audit frameworks, reporting templates, and segmentation guides |
+| Trackers | 13 | Excel workbooks for planning, budgeting, RFM segmentation, and performance reporting |
 
 ---
 
