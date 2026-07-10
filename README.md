@@ -91,22 +91,13 @@ Excel workbooks for 90-day planning, content calendars, budget allocation, RFM s
 
 ## Frameworks & Methodologies
 
-Key frameworks developed and applied across client engagements:
-
-**Three-Phase Patient Outreach Strategy**
-A structured approach for healthcare providers: (1) Awareness — local SEO and social presence; (2) Engagement — educational content nurture; (3) Conversion — appointment-driving CTAs and offers.
-
-**Two-Platform Social Media Strategy**
-Instagram for community building + TikTok for reach and discovery, with Buffer for centralized scheduling. Includes step-by-step platform setup instructions.
-
-**Patient Retention Content Framework**
-Targets two primary drop-off mindsets: *I Feel Better* syndrome and *It Is Not Working* syndrome. Includes four ready-to-copy captions per mindset.
-
-**RFM Segmentation Model**
-Classifies customers into 8 segments using Recency, Frequency, and Monetary value scoring — each with a distinct color identity and recommended engagement strategy.
-
-**Language Services Trade Show & Conference Guide**
-Curated trade show and conference listings with registration links and attendance strategy for language services businesses.
+| Framework | Description |
+|---|---|
+| Three-Phase Patient Outreach Strategy | Awareness → Engagement → Conversion framework for healthcare providers |
+| Two-Platform Social Media Strategy | Instagram + TikTok with Buffer scheduling for local service businesses |
+| Patient Retention Content Framework | Content targeting two drop-off mindsets: *I Feel Better* and *It Is Not Working* |
+| RFM Segmentation Model | 8-segment customer classification using Recency, Frequency, and Monetary scoring |
+| Trade Show & Conference Guide | Curated event listings with registration links for language services businesses |
 
 ---
 
