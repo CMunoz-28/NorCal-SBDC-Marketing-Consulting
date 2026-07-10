@@ -40,7 +40,13 @@ Client names have been anonymized to protect confidentiality.
 │   ├── Client-D/   — Marketing strategy, website SEO audit
 │   ├── Client-E/   — AI-assisted outreach guide
 │   ├── Client-F/   — Session prep, ad platform comparison, Instagram content calendar
-│   └── Client-G/   — SEO & messaging audit, patient outreach strategy, social media strategy, retention post templates
+│   ├── Client-G/   — SEO & messaging audit, patient outreach strategy, social media strategy, retention post templates
+│   ├── Client-H/   — Retail / eCommerce engagement
+│   ├── Client-I/   — Language services engagement
+│   ├── Client-J/   — Beauty & wellness engagement
+│   ├── Client-K/   — Professional services engagement
+│   ├── Client-L/   — Food & beverage engagement
+│   └── Client-M/   — Local services engagement
 │
 └── internal-tools/
     ├── templates/  — 11 reusable frameworks built for client engagements
@@ -62,6 +68,12 @@ Each folder contains deliverables produced across advising sessions. Work typica
 | Client-E | Local Service Business | [View →](client-work/Client-E/) |
 | Client-F | Early Childhood Education | [View →](client-work/Client-F/) |
 | Client-G | Healthcare / Chiropractic | [View →](client-work/Client-G/) |
+| Client-H | Retail / eCommerce | [View →](client-work/Client-H/) |
+| Client-I | Language Services | [View →](client-work/Client-I/) |
+| Client-J | Beauty & Wellness | [View →](client-work/Client-J/) |
+| Client-K | Professional Services | [View →](client-work/Client-K/) |
+| Client-L | Food & Beverage | [View →](client-work/Client-L/) |
+| Client-M | Local Services | [View →](client-work/Client-M/) |
 
 ### Client-A — Food & Beverage
 Social media strategy, social media audit, SEO keyword research, website audit, and one-pager. [View folder →](client-work/Client-A/)
@@ -83,6 +95,24 @@ Session prep materials, Facebook vs. Google Ads comparison, and Instagram conten
 
 ### Client-G — Healthcare / Chiropractic
 SEO and messaging audit, patient outreach strategy, social media strategy, and retention content templates. [View folder →](client-work/Client-G/)
+
+### Client-H — Retail / eCommerce
+Digital advertising strategy, product marketing analysis, and conversion optimization. [View folder →](client-work/Client-H/)
+
+### Client-I — Language Services
+Marketing strategy and trade show conference guide with registration links. [View folder →](client-work/Client-I/)
+
+### Client-J — Beauty & Wellness
+Brand positioning, social media strategy, and digital marketing plan. [View folder →](client-work/Client-J/)
+
+### Client-K — Professional Services
+Marketing audit, competitive research, and go-to-market strategy. [View folder →](client-work/Client-K/)
+
+### Client-L — Food & Beverage
+Social media content planning, SEO recommendations, and campaign strategy. [View folder →](client-work/Client-L/)
+
+### Client-M — Local Services
+Customer segmentation, outreach strategy, and marketing planning. [View folder →](client-work/Client-M/)
 
 ---
 
