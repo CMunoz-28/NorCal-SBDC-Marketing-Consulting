@@ -23,7 +23,7 @@ Client names have been anonymized to protect confidentiality.
 | | |
 |---|---|
 | **Clients advised** | 13+ across 8 industries |
-| **Deliverables produced** | 30+ strategy docs, audits, guides, and templates |
+| **Deliverables produced** | 45+ strategy docs, audits, guides, and templates |
 | **Tools implemented** | Zoho CRM, Buffer, Google Ads, Meta Ads, SEMrush, Google Search Console |
 | **Frameworks developed** | RFM segmentation, patient outreach, retention content, paid media reporting, social media strategy |
 | **Industries served** | Healthcare, Food & Beverage, Education, B2B Services, Retail, Nonprofit, Language Services, Beauty & Wellness |
@@ -129,6 +129,6 @@ Learn more: [norcalsbdc.org](https://norcalsbdc.org/) · [Find your local SBDC](
 
 **Carlos Muñoz**
 MS, Marketing Analytics — California State University, East Bay
-Marketing Advisor · NorCal SBDC
+Marketing Advisor · NorCal SBDC · 2025–2026
 
 [LinkedIn](https://www.linkedin.com/in/carlos-m27/) · [GitHub](https://github.com/CMunoz-28) · [Portfolio](https://carlosamunoz.com)
