@@ -59,62 +59,21 @@ Client names have been anonymized to protect confidentiality.
 
 Each folder contains deliverables produced across advising sessions. Work typically spanned discovery and audit, strategy development, tool implementation, and execution support.
 
-| Client | Industry | Folder |
-|---|---|---|
-| Client-A | Food & Beverage | [View →](client-work/Client-A/) |
-| Client-B | B2B SaaS / Professional Services | [View →](client-work/Client-B/) |
-| Client-C | Professional Services | [View →](client-work/Client-C/) |
-| Client-D | Nonprofit / Community Services | [View →](client-work/Client-D/) |
-| Client-E | Local Service Business | [View →](client-work/Client-E/) |
-| Client-F | Early Childhood Education | [View →](client-work/Client-F/) |
-| Client-G | Healthcare / Chiropractic | [View →](client-work/Client-G/) |
-| Client-H | Retail / eCommerce | [View →](client-work/Client-H/) |
-| Client-I | Language Services | [View →](client-work/Client-I/) |
-| Client-J | Beauty & Wellness | [View →](client-work/Client-J/) |
-| Client-K | Professional Services | [View →](client-work/Client-K/) |
-| Client-L | Food & Beverage | [View →](client-work/Client-L/) |
-| Client-M | Local Services | [View →](client-work/Client-M/) |
-
-### Client-A — Food & Beverage
-Social media strategy, social media audit, SEO keyword research, website audit, and one-pager. [View folder →](client-work/Client-A/)
-
-### Client-B — B2B Services
-Full marketing strategy, LinkedIn growth strategy, Zoho email marketing setup, Buffer onboarding guide, and session 2 battle plan. [View folder →](client-work/Client-B/)
-
-### Client-C — Professional Services
-Zoho CRM walkthrough, Buffer social scheduling walkthrough, and session one-pager. [View folder →](client-work/Client-C/)
-
-### Client-D — Community Organization
-Marketing strategy and technical SEO audit. [View folder →](client-work/Client-D/)
-
-### Client-E — Local Service Business
-AI-assisted outreach guide with tactics for local customer acquisition. [View folder →](client-work/Client-E/)
-
-### Client-F — Early Childhood Education
-Session prep materials, Facebook vs. Google Ads comparison, and Instagram content calendar. [View folder →](client-work/Client-F/)
-
-### Client-G — Healthcare / Chiropractic
-SEO and messaging audit, patient outreach strategy, social media strategy, and retention content templates. [View folder →](client-work/Client-G/)
-
-### Client-H — Retail / eCommerce
-Digital advertising strategy, product marketing analysis, and conversion optimization. [View folder →](client-work/Client-H/)
-
-### Client-I — Language Services
-Marketing strategy and trade show conference guide with registration links. [View folder →](client-work/Client-I/)
-
-### Client-J — Beauty & Wellness
-Brand positioning, social media strategy, and digital marketing plan. [View folder →](client-work/Client-J/)
-
-### Client-K — Professional Services
-Marketing audit, competitive research, and go-to-market strategy. [View folder →](client-work/Client-K/)
-
-### Client-L — Food & Beverage
-Social media content planning, SEO recommendations, and campaign strategy. [View folder →](client-work/Client-L/)
-
-### Client-M — Local Services
-Customer segmentation, outreach strategy, and marketing planning. [View folder →](client-work/Client-M/)
-
----
+| Client | Industry | Focus | Folder |
+|---|---|---|---|
+| Client-A | Food & Beverage | Social media strategy, SEO keywords, website audit | [View →](client-work/Client-A/) |
+| Client-B | B2B SaaS / Professional Services | Full marketing strategy, LinkedIn growth, CRM and email setup | [View →](client-work/Client-B/) |
+| Client-C | Professional Services | CRM walkthrough, social scheduling setup, session deliverables | [View →](client-work/Client-C/) |
+| Client-D | Nonprofit / Community Services | Marketing strategy, technical SEO audit | [View →](client-work/Client-D/) |
+| Client-E | Local Service Business | AI-assisted outreach guide for local customer acquisition | [View →](client-work/Client-E/) |
+| Client-F | Early Childhood Education | Ad platform comparison, Instagram content calendar, session prep | [View →](client-work/Client-F/) |
+| Client-G | Healthcare / Chiropractic | SEO audit, patient outreach strategy, social media strategy, retention content | [View →](client-work/Client-G/) |
+| Client-H | Retail / eCommerce | Digital advertising strategy, conversion optimization | [View →](client-work/Client-H/) |
+| Client-I | Language Services | Marketing strategy, trade show and conference guide | [View →](client-work/Client-I/) |
+| Client-J | Beauty & Wellness | Brand positioning, social media strategy, digital marketing plan | [View →](client-work/Client-J/) |
+| Client-K | Professional Services | Marketing audit, competitive research, go-to-market strategy | [View →](client-work/Client-K/) |
+| Client-L | Food & Beverage | Social media content planning, SEO recommendations, campaign strategy | [View →](client-work/Client-L/) |
+| Client-M | Local Services | Customer segmentation, outreach strategy, marketing planning | [View →](client-work/Client-M/) |
 
 ## Internal Tools & Templates
 
