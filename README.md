@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository documents marketing consulting work completed as a **Marketing Advisor** at the [NorCal Small Business Development Center (SBDC)](https://norcalsbdc.org/) — part of the [America's SBDC Network](https://americassbdc.org/), funded through a cooperative agreement with the [U.S. Small Business Administration (SBA)](https://www.sba.gov/).
+This repository documents marketing consulting work completed as a **Marketing Advisor** at the [NorCal Small Business Development Center (SBDC)](https://norcalsbdc.org/), part of the [America's SBDC Network](https://americassbdc.org/), funded through a cooperative agreement with the [U.S. Small Business Administration (SBA)](https://www.sba.gov/).
 
 The SBDC provides no-cost, confidential business advising and education to small business owners across Northern California. As an advisor, I worked directly with 13+ clients to diagnose marketing challenges, develop strategy, implement tools, and build systems for sustainable growth.
 
