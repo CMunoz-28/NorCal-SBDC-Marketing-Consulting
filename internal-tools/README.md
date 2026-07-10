@@ -1,34 +1,55 @@
-# Internal Tools — SBDC Workflow and Productivity
+# Internal Tools & Templates
 
-## About This Work
+Reusable frameworks, templates, and trackers built across 13+ client engagements at the [NorCal Small Business Development Center (SBDC)](https://norcalsbdc.org/).
 
-This folder contains internal tools, templates, and automations I use to
-manage my advisory caseload as a Marketing Advisor at the NorCal/East Bay
-SBDC. These are operational tools for my own workflow, separate from any
-client-facing materials, and contain no client-identifying information.
+This toolkit represents a structured consulting system — not just individual files, but a repeatable methodology for onboarding clients, diagnosing marketing gaps, building strategy, and tracking execution.
 
-## What's in This Folder
+---
 
-- **Task management templates** — a consistent project/task structure
-  (opening summary, Primary Goal, Context, Objectives, Next Steps, with
-  deliverables tracked as subtasks) used across all client engagements in
-  Asana, scheduled on a 2-3 day cadence to keep work moving steadily.
+## Templates
 
-- **Session logging templates** — structured formats for documenting
-  advising sessions (description, problem analysis, actions taken,
-  follow-up, scope hours remaining) consistent with SBDC reporting
-  requirements.
+Ready-to-deploy frameworks for client-facing strategy and reporting work.
 
-- **Pre-session research checklists** — repeatable frameworks for
-  preparing for a new or returning client session (online presence audits,
-  discovery question banks, agenda templates).
+| File | Purpose |
+|---|---|
+| `Client_Onboarding_Checklist.docx` | Standardized intake and onboarding process |
+| `Customer_Persona_Builder.docx` | Guided framework for defining target audiences |
+| `Competitor_Analysis_Worksheet.docx` | Structured competitive research template |
+| `Brand_Voice_Messaging_Guide.docx` | Framework for defining tone, voice, and messaging |
+| `Advisor_Capabilities_Overview.docx` | Overview of advisory services and scope |
+| `Marketing_Workbook_Enhanced.docx` | Comprehensive marketing planning workbook |
+| `Customer_Segmentation_RFM_Analysis.docx` | RFM segmentation methodology guide with 8 color-coded segment profiles |
+| `PaidMedia_Performance_Report.docx` | Paid media reporting framework covering Google Ads and Meta |
+| `AB_Test_Results_Report.docx` | A/B test results documentation and analysis template |
+| `Market_Research_Report_Template.docx` | Structured market research report template |
+| `SBDC_Blog_Topic_Briefs.md` | Content briefs for SBDC blog and educational content |
 
-- **Scope and hours tracking helpers** — lightweight tools for monitoring
-  hours remaining against approved client scope and flagging when an
-  extension request is needed.
+---
 
-## Why This Exists
+## Trackers
 
-Managing a caseload of 8+ active clients with overlapping deadlines
-requires consistent systems. These tools keep session prep, follow-through,
-and documentation repeatable so quality does not degrade as caseload grows.
+Data-driven workbooks for planning, budgeting, segmentation, and performance tracking.
+
+| File | Purpose |
+|---|---|
+| `90_Day_Marketing_Roadmap.xlsx` | 90-day action plan template for clients |
+| `Project_Plan_Timeline_Enhanced.xlsx` | Project and milestone tracking |
+| `Timeline_Deliverables_Enhanced.xlsx` | Deliverable scheduling by phase |
+| `Content_Calendar.xlsx` | Monthly social and content planning |
+| `Channel_Planner.xlsx` | Multi-channel marketing planning |
+| `Marketing_Budget_Planner.xlsx` | Budget allocation and ROI tracking |
+| `Marketing_Audit_Scorecard.xlsx` | Scoring framework for marketing health assessments |
+| `Social_Media_Audit.xlsx` | Social media performance audit template |
+| `Customer_Segmentation_RFM_Analysis.xlsx` | RFM analysis workbook with 8 color-coded customer segment profiles |
+| `PaidMedia_Performance_Report.xlsx` | Paid media performance workbook with live formulas for Google Ads and Meta |
+| `Session_Notes_Template.xlsx` | Structured advising session notes |
+| `Hours_Tracker.xlsx` | Advisor hours and engagement tracking |
+| `Referral_Network_List.xlsx` | Resource and referral partner directory |
+
+---
+
+## About the SBDC
+
+The [NorCal Small Business Development Center](https://norcalsbdc.org/) is part of the [America's SBDC Network](https://americassbdc.org/), funded in part through a cooperative agreement with the [U.S. Small Business Administration (SBA)](https://www.sba.gov/). It provides no-cost, confidential business advising and education to small business owners across Northern California.
+
+Advisors work directly with business owners to diagnose challenges, build strategy, and implement tools — the frameworks in this folder were built to support that work at scale.
