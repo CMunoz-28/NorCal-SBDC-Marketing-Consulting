@@ -1,6 +1,7 @@
 # NorCal SBDC — Marketing Consulting Work
 
 ![Role](https://img.shields.io/badge/Role-Marketing%20Advisor-blue)
+![Clients](https://img.shields.io/badge/Clients%20Advised-13%2B-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Small%20Business%20Marketing-purple)
 ![Tools](https://img.shields.io/badge/Tools-Strategy%20%7C%20SEO%20%7C%20CRM%20%7C%20Social%20Media-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -9,104 +10,80 @@
 
 ## Overview
 
-This repository documents marketing consulting work completed as an advisor at the **NorCal Small Business Development Center (SBDC)**. The SBDC provides no-cost business advising and education to small business owners across Northern California.
+This repository documents marketing consulting work completed as a **Marketing Advisor** at the [NorCal Small Business Development Center (SBDC)](https://norcalsbdc.org/) — part of the [America's SBDC Network](https://americassbdc.org/), funded through a cooperative agreement with the [U.S. Small Business Administration (SBA)](https://www.sba.gov/).
 
-My work focused on helping clients build structured marketing systems — from initial audits and strategy development through tool implementation, content planning, and performance tracking.
+The SBDC provides no-cost, confidential business advising and education to small business owners across Northern California. As an advisor, I worked directly with 13+ clients to diagnose marketing challenges, develop strategy, implement tools, and build systems for sustainable growth.
 
 Client names have been anonymized to protect confidentiality.
 
 ---
 
+## Results at a Glance
+
+| | |
+|---|---|
+| **Clients advised** | 13+ across 8 industries |
+| **Deliverables produced** | 30+ strategy docs, audits, guides, and templates |
+| **Tools implemented** | Zoho CRM, Buffer, Google Ads, Meta Ads, SEMrush, Google Search Console |
+| **Frameworks developed** | RFM segmentation, patient outreach, retention content, paid media reporting, social media strategy |
+| **Industries served** | Healthcare, Food & Beverage, Education, B2B Services, Retail, Nonprofit, Language Services, Beauty & Wellness |
+
+---
+
 ## Repository Structure
 
-```
-├── client-work/
-│   ├── Client-A/   — Social media strategy, SEO keywords, website audit, one-pager
-│   ├── Client-B/   — Full marketing strategy, LinkedIn strategy, email marketing, CRM/social tools, session battle plan
-│   ├── Client-C/   — CRM walkthrough, social scheduling setup, session deliverables
-│   ├── Client-D/   — Marketing strategy, website SEO audit
-│   ├── Client-E/   — Outreach guide
-│   ├── Client-F/   — Session prep, ad platform comparison, Instagram content calendar
-│   └── Client-G/   — SEO & messaging audit, patient outreach strategy, social media strategy, retention post templates
-│
-└── internal-tools/
-    ├── templates/  — Reusable frameworks built for client engagements
-    └── trackers/   — Planning, budgeting, and session management spreadsheets
-```
+
 
 ---
 
 ## Client Work
 
-Each client folder contains the deliverables produced across advising sessions. Work typically spanned:
+Each folder contains deliverables produced across advising sessions. Work typically spanned discovery and audit, strategy development, tool implementation, and execution support.
 
-- **Discovery & audit** — website, SEO, social media, and competitive landscape
-- **Strategy development** — marketing plans, channel prioritization, messaging frameworks
-- **Tool implementation** — CRM setup (Zoho), social scheduling (Buffer), email marketing
-- **Execution support** — content calendars, ad platform guidance, one-pagers, session prep
+| Client | Industry | Folder |
+|---|---|---|
+| Client-A | Food & Beverage | [View →](client-work/Client-A/) |
+| Client-B | B2B SaaS / Professional Services | [View →](client-work/Client-B/) |
+| Client-C | Professional Services | [View →](client-work/Client-C/) |
+| Client-D | Nonprofit / Community Services | [View →](client-work/Client-D/) |
+| Client-E | Local Service Business | [View →](client-work/Client-E/) |
+| Client-F | Early Childhood Education | [View →](client-work/Client-F/) |
+| Client-G | Healthcare / Chiropractic | [View →](client-work/Client-G/) |
 
-### Client-A
-Food & beverage business. Deliverables include a full social media strategy, social media audit, SEO keyword research, and website audit.
+### Client-A — Food & Beverage
+Social media strategy, social media audit, SEO keyword research, website audit, and one-pager. [View folder →](client-work/Client-A/)
 
-### Client-B
-B2B SaaS / services business. Deliverables include a full marketing strategy, LinkedIn growth strategy, Zoho email marketing setup, Buffer onboarding guide, and session 2 battle plan.
+### Client-B — B2B Services
+Full marketing strategy, LinkedIn growth strategy, Zoho email marketing setup, Buffer onboarding guide, and session 2 battle plan. [View folder →](client-work/Client-B/)
 
-### Client-C
-Professional services client. Deliverables include a Zoho CRM walkthrough, Buffer social scheduling walkthrough, and session one-pager.
+### Client-C — Professional Services
+Zoho CRM walkthrough, Buffer social scheduling walkthrough, and session one-pager. [View folder →](client-work/Client-C/)
 
-### Client-D
-Community organization. Deliverables include a marketing strategy and technical SEO audit.
+### Client-D — Community Organization
+Marketing strategy and technical SEO audit. [View folder →](client-work/Client-D/)
 
-### Client-E
-Local service business. Deliverables include an AI-assisted outreach guide.
+### Client-E — Local Service Business
+AI-assisted outreach guide with tactics for local customer acquisition. [View folder →](client-work/Client-E/)
 
-### Client-F
-Early childhood education business. Deliverables include session prep materials, a Facebook vs. Google Ads comparison, and an Instagram content calendar.
+### Client-F — Early Childhood Education
+Session prep materials, Facebook vs. Google Ads comparison, and Instagram content calendar. [View folder →](client-work/Client-F/)
 
-### Client-G
-Healthcare / chiropractic practice. Deliverables include:
-- **SEO & Messaging Audit** — website audit covering on-page SEO, messaging clarity, and conversion gaps
-- **Patient Outreach Strategy** — three-phase outreach framework for attracting and converting new patients
-- **Social Media Strategy & How-To Guide** — two-platform strategy (Instagram + TikTok) with step-by-step Buffer, Instagram, and TikTok setup instructions
-- **Patient Retention Post Templates** — four ready-to-copy captions targeting two drop-off mindsets: *I Feel Better* syndrome and *It Is Not Working* syndrome
+### Client-G — Healthcare / Chiropractic
+SEO and messaging audit, three-phase patient outreach strategy, two-platform social media strategy with Buffer/Instagram/TikTok setup, and patient retention post templates. [View folder →](client-work/Client-G/)
 
 ---
 
 ## Internal Tools & Templates
 
-Reusable frameworks and trackers developed to support structured, consistent client engagements.
+[View the full internal tools library →](internal-tools/)
 
-### Templates
-| File | Purpose |
-|---|---|
-| `Client_Onboarding_Checklist.docx` | Standardized intake and onboarding process |
-| `Customer_Persona_Builder.docx` | Guided framework for defining target audiences |
-| `Competitor_Analysis_Worksheet.docx` | Structured competitive research template |
-| `Brand_Voice_Messaging_Guide.docx` | Framework for defining tone, voice, and messaging |
-| `Advisor_Capabilities_Overview.docx` | Overview of advisory services and scope |
-| `Marketing_Workbook_Enhanced.docx` | Comprehensive marketing planning workbook |
-| `Customer_Segmentation_RFM_Analysis.docx` | RFM segmentation methodology guide with 8 color-coded segment profiles |
-| `PaidMedia_Performance_Report.docx` | Paid media reporting framework covering Google Ads and Meta |
-| `AB_Test_Results_Report.docx` | A/B test results documentation and analysis template |
-| `Market_Research_Report_Template.docx` | Structured market research report template |
-| `SBDC_Blog_Topic_Briefs.md` | Content briefs for SBDC blog and educational content |
+Reusable frameworks and trackers developed to support structured, consistent client engagements across 13+ advisory relationships.
 
-### Trackers
-| File | Purpose |
-|---|---|
-| `90_Day_Marketing_Roadmap.xlsx` | 90-day action plan template for clients |
-| `Project_Plan_Timeline_Enhanced.xlsx` | Project and milestone tracking |
-| `Timeline_Deliverables_Enhanced.xlsx` | Deliverable scheduling by phase |
-| `Content_Calendar.xlsx` | Monthly social and content planning |
-| `Channel_Planner.xlsx` | Multi-channel marketing planning |
-| `Marketing_Budget_Planner.xlsx` | Budget allocation and ROI tracking |
-| `Marketing_Audit_Scorecard.xlsx` | Scoring framework for marketing health assessments |
-| `Social_Media_Audit.xlsx` | Social media performance audit template |
-| `Customer_Segmentation_RFM_Analysis.xlsx` | RFM analysis workbook with 8 color-coded customer segment profiles |
-| `PaidMedia_Performance_Report.xlsx` | Paid media performance workbook with live formulas for Google Ads and Meta |
-| `Session_Notes_Template.xlsx` | Structured advising session notes |
-| `Hours_Tracker.xlsx` | Advisor hours and engagement tracking |
-| `Referral_Network_List.xlsx` | Resource and referral partner directory |
+### Templates (11 files)
+Strategy docs, audit frameworks, reporting templates, and segmentation guides built to be reused and adapted across industries.
+
+### Trackers (13 files)
+Excel workbooks for 90-day planning, content calendars, budget allocation, RFM segmentation, paid media performance, and session management.
 
 ---
 
@@ -115,35 +92,42 @@ Reusable frameworks and trackers developed to support structured, consistent cli
 Key frameworks developed and applied across client engagements:
 
 **Three-Phase Patient Outreach Strategy**
-A structured approach for healthcare providers to attract and convert new patients: (1) Awareness — establish local SEO and social presence; (2) Engagement — nurture through educational content; (3) Conversion — drive appointment bookings through targeted CTAs and offers.
+A structured approach for healthcare providers: (1) Awareness — local SEO and social presence; (2) Engagement — educational content nurture; (3) Conversion — appointment-driving CTAs and offers.
 
 **Two-Platform Social Media Strategy**
-A local service business framework using Instagram for community building and TikTok for reach and discovery, with Buffer for centralized scheduling. Includes step-by-step platform setup instructions.
+Instagram for community building + TikTok for reach and discovery, with Buffer for centralized scheduling. Includes step-by-step platform setup instructions.
 
 **Patient Retention Content Framework**
-Content strategy targeting two primary drop-off mindsets: *I Feel Better* syndrome (patients who stop treatment prematurely) and *It Is Not Working* syndrome (patients who disengage due to slow progress). Includes four ready-to-copy captions per mindset.
+Targets two primary drop-off mindsets: *I Feel Better* syndrome and *It Is Not Working* syndrome. Includes four ready-to-copy captions per mindset.
 
 **RFM Segmentation Model**
-Customer segmentation framework using Recency, Frequency, and Monetary value scoring to classify customers into 8 segments with distinct color identities and recommended engagement strategies.
+Classifies customers into 8 segments using Recency, Frequency, and Monetary value scoring — each with a distinct color identity and recommended engagement strategy.
 
 **Language Services Trade Show & Conference Guide**
-Research guide with curated trade show and conference listings for language services businesses, including registration links and attendance strategy.
+Curated trade show and conference listings with registration links and attendance strategy for language services businesses.
 
 ---
 
 ## Skills Demonstrated
 
-- Marketing strategy development for small businesses across multiple industries
+- Marketing strategy development across 8 industries
 - SEO audits, messaging audits, and keyword research
 - CRM implementation and onboarding (Zoho)
 - Social media strategy and content planning (Instagram, TikTok, Buffer)
-- Paid media platform analysis and performance reporting (Google Ads, Meta)
+- Paid media analysis and performance reporting (Google Ads, Meta)
 - Patient outreach and retention strategy for healthcare providers
 - RFM customer segmentation and analysis
 - A/B testing documentation and reporting
 - Market research and competitive analysis
-- Client-facing deliverable production and communication
-- Reusable framework and template development
+- Reusable framework and consulting system development
+
+---
+
+## About the SBDC
+
+The [NorCal Small Business Development Center](https://norcalsbdc.org/) serves small business owners across Northern California with free, confidential advising. It is part of the [America's SBDC Network](https://americassbdc.org/) — the largest network of small business assistance in the United States — and is funded in part through a cooperative agreement with the [U.S. Small Business Administration](https://www.sba.gov/).
+
+Learn more: [norcalsbdc.org](https://norcalsbdc.org/) · [Find your local SBDC](https://americassbdc.org/find-your-sbdc/)
 
 ---
 
