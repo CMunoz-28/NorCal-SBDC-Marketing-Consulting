@@ -22,7 +22,7 @@ Client names have been anonymized to protect confidentiality.
 
 | | |
 |---|---|
-| **Clients advised** | 13+ across 8 industries |
+| **Clients advised** | 7 documented, 13+ total across 8 industries |
 | **Deliverables produced** | 45+ strategy docs, audits, guides, and templates |
 | **Tools implemented** | Zoho CRM, Buffer, Google Ads, Meta Ads, SEMrush, Google Search Console |
 | **Frameworks developed** | RFM segmentation, patient outreach, retention content, paid media reporting, social media strategy |
@@ -40,13 +40,7 @@ Client names have been anonymized to protect confidentiality.
 │   ├── Client-D/   — Marketing strategy, website SEO audit
 │   ├── Client-E/   — AI-assisted outreach guide
 │   ├── Client-F/   — Session prep, ad platform comparison, Instagram content calendar
-│   ├── Client-G/   — SEO & messaging audit, patient outreach strategy, social media strategy, retention post templates
-│   ├── Client-H/   — Digital advertising strategy, conversion optimization
-│   ├── Client-I/   — Marketing strategy, trade show and conference guide
-│   ├── Client-J/   — Brand positioning, social media strategy, digital marketing plan
-│   ├── Client-K/   — Marketing audit, competitive research, go-to-market strategy
-│   ├── Client-L/   — Social media content planning, SEO recommendations, campaign strategy
-│   └── Client-M/   — Customer segmentation, outreach strategy, marketing planning
+│   └── Client-G/   — SEO & messaging audit, patient outreach strategy, social media strategy, retention post templates
 │
 └── internal-tools/
     ├── templates/  — 11 reusable frameworks built for client engagements
@@ -68,12 +62,6 @@ Each folder contains deliverables produced across advising sessions. Work typica
 | Client-E | Local Service Business | AI-assisted outreach guide for local customer acquisition | [View](client-work/Client-E/) |
 | Client-F | Early Childhood Education | Ad platform comparison, Instagram content calendar, session prep | [View](client-work/Client-F/) |
 | Client-G | Healthcare / Chiropractic | SEO audit, patient outreach strategy, social media strategy, retention content | [View](client-work/Client-G/) |
-| Client-H | Retail / eCommerce | Digital advertising strategy, conversion optimization | [View](client-work/Client-H/) |
-| Client-I | Language Services | Marketing strategy, trade show and conference guide | [View](client-work/Client-I/) |
-| Client-J | Beauty & Wellness | Brand positioning, social media strategy, digital marketing plan | [View](client-work/Client-J/) |
-| Client-K | Professional Services | Marketing audit, competitive research, go-to-market strategy | [View](client-work/Client-K/) |
-| Client-L | Food & Beverage | Social media content planning, SEO recommendations, campaign strategy | [View](client-work/Client-L/) |
-| Client-M | Local Services | Customer segmentation, outreach strategy, marketing planning | [View](client-work/Client-M/) |
 
 ---
 
