@@ -32,7 +32,20 @@ Client names have been anonymized to protect confidentiality.
 
 ## Repository Structure
 
-
+```
+├── client-work/
+│   ├── Client-A/   — Social media strategy, SEO keywords, website audit, one-pager
+│   ├── Client-B/   — Full marketing strategy, LinkedIn strategy, CRM/social tools, session battle plan
+│   ├── Client-C/   — CRM walkthrough, social scheduling setup, session deliverables
+│   ├── Client-D/   — Marketing strategy, website SEO audit
+│   ├── Client-E/   — AI-assisted outreach guide
+│   ├── Client-F/   — Session prep, ad platform comparison, Instagram content calendar
+│   └── Client-G/   — SEO & messaging audit, patient outreach strategy, social media strategy, retention post templates
+│
+└── internal-tools/
+    ├── templates/  — 11 reusable frameworks built for client engagements
+    └── trackers/   — 13 planning, budgeting, and performance workbooks
+```
 
 ---
 
