@@ -22,7 +22,7 @@ Client names have been anonymized to protect confidentiality.
 
 | | |
 |---|---|
-| **Clients advised** | 7 documented, 13+ total across 8 industries |
+| **Clients advised** | 13+ total across 8 industries |
 | **Deliverables produced** | 45+ strategy docs, audits, guides, and templates |
 | **Tools implemented** | Zoho CRM, Buffer, Google Ads, Meta Ads, SEMrush, Google Search Console |
 | **Frameworks developed** | RFM segmentation, patient outreach, retention content, paid media reporting, social media strategy |
