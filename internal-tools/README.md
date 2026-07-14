@@ -48,6 +48,18 @@ Data-driven workbooks for planning, budgeting, segmentation, and performance tra
 
 ---
 
+## CRM & Operations
+
+Client engagement tracking and session management at the NorCal SBDC is handled through **[Neoserra](https://www.neoserra.com/)** — an enterprise CRM purpose-built for SBDC and economic development organizations.
+
+| Tool | Usage |
+|---|---|
+| **Neoserra** | Client intake, session logging, milestone tracking, and federal reporting across all 13+ engagements |
+
+Neoserra serves as the system of record for all advising activity — capturing session notes, hours, client progress, and outcomes in compliance with SBA reporting requirements. Working within this platform developed hands-on experience with CRM data management, client lifecycle tracking, and structured advising workflows at scale.
+
+---
+
 ## About the SBDC
 
 The [NorCal Small Business Development Center](https://norcalsbdc.org/) is part of the [America's SBDC Network](https://americassbdc.org/), funded in part through a cooperative agreement with the [U.S. Small Business Administration (SBA)](https://www.sba.gov/). It provides no-cost, confidential business advising and education to small business owners across Northern California.
