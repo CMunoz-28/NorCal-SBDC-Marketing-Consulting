@@ -102,6 +102,7 @@ Reusable frameworks and trackers developed to support structured, consistent cli
 - A/B testing documentation and reporting
 - Market research and competitive analysis
 - Reusable framework and consulting system development
+- CRM management and client lifecycle tracking (Neoserra, Zoho)
 
 ---
 
