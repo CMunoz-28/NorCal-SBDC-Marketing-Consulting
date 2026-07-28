@@ -8,7 +8,7 @@ This toolkit represents a structured consulting system — not just individual f
 
 ## Templates
 
-Ready-to-deploy frameworks for client-facing strategy and reporting work.
+Ready-to-deploy frameworks for client-facing strategy, reporting, and operations work.
 
 | File | Purpose |
 |---|---|
@@ -23,6 +23,14 @@ Ready-to-deploy frameworks for client-facing strategy and reporting work.
 | `AB_Test_Results_Report.docx` | A/B test results documentation and analysis template |
 | `Market_Research_Report_Template.docx` | Structured market research report template |
 | `SBDC_Blog_Topic_Briefs.md` | Content briefs for SBDC blog and educational content |
+| `Contract_Terms.md` | California-compliant freelance services agreement (11 clauses) |
+| `Scope_of_Work_Template.md` | SOW template with objectives, deliverables, timeline, and payment terms |
+| `Client_Welcome_Packet.md` | Project overview, tools, communication plan, and turnaround times |
+| `Client_Welcome_Email.md` | Onboarding email with project summary and requirements |
+| `Analytics_Report_Outline.md` | 9-section analytics report structure for client-facing deliverables |
+| `Analytics_Audit_Checklist.md` | GA4 setup and tracking verification checklist |
+| `Weekly_Report_Template.md` | Structured weekly report with metrics table, insights, and next steps |
+| `End-of-Project_Wrap-Up_Summary.md` | Project close-out summary with deliverables recap and feedback request |
 
 ---
 
@@ -45,6 +53,7 @@ Data-driven workbooks for planning, budgeting, segmentation, and performance tra
 | `Session_Notes_Template.xlsx` | Structured advising session notes |
 | `Hours_Tracker.xlsx` | Advisor hours and engagement tracking |
 | `Referral_Network_List.xlsx` | Resource and referral partner directory |
+| `SEO_Audit_Workbook.xlsx` | Comprehensive SEO audit workbook covering 40+ technical and on-page checks |
 
 ---
 

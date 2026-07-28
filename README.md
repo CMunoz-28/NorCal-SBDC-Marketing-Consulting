@@ -43,8 +43,8 @@ Client names have been anonymized to protect confidentiality.
 │   └── Client-G/   — SEO & messaging audit, patient outreach strategy, social media strategy, retention post templates
 │
 └── internal-tools/
-    ├── templates/  — 11 reusable frameworks built for client engagements
-    └── trackers/   — 13 planning, budgeting, and performance workbooks
+    ├── templates/  — 19 reusable frameworks built for client engagements
+    └── trackers/   — 14 planning, budgeting, and performance workbooks
 ```
 
 ---
@@ -73,8 +73,8 @@ Reusable frameworks and trackers developed to support structured, consistent cli
 
 | Type | Count | Contents |
 |---|---|---|
-| Templates | 11 | Strategy docs, audit frameworks, reporting templates, and segmentation guides |
-| Trackers | 13 | Excel workbooks for planning, budgeting, RFM segmentation, and performance reporting |
+| Templates | 19 | Strategy docs, audit frameworks, reporting templates, operational agreements, and segmentation guides |
+| Trackers | 14 | Excel workbooks for planning, budgeting, SEO audits, RFM segmentation, and performance reporting |
 
 ---
 
