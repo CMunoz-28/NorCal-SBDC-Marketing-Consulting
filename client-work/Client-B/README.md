@@ -14,3 +14,4 @@ Advised a B2B services business on building a full marketing infrastructure from
 | `Client-B_Zoho_EmailMarketing.docx` | Zoho email marketing setup and automation guide |
 | `Client-B_Buffer_Overview.docx` | Buffer onboarding and social scheduling guide |
 | `Client-B_Session2_BattlePlan.docx` | Session 2 trade show research and action plan with clickable links |
+| `SEO_Audit_B2B_Language_Services.docx` | Technical SEO audit with prioritized on-page recommendations for a B2B language services company |

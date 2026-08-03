@@ -12,3 +12,4 @@ Advised an early childhood education business on digital advertising strategy an
 | `Client-F_Session2_PrepPackage.docx` | Session 2 preparation materials and research package |
 | `Client-F_FacebookVsGoogleAds.docx` | Comparative analysis of Facebook Ads vs. Google Ads for enrollment campaigns |
 | `Client-F_Instagram_ContentCalendar.docx` | Monthly Instagram content calendar with post themes and captions |
+| `Market_Research_Brief_Early_Childhood_Education.docx` | Market research brief using California public data on TK expansion and preschool enrollment trends |
