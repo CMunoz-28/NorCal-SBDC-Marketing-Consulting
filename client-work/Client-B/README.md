@@ -1,6 +1,6 @@
 # Client-B — B2B Services
 
-**Industry:** B2B SaaS / Professional Services
+**Industry:** B2B Professional Services
 **Engagement:** NorCal SBDC Marketing Advisory
 
 ## Overview

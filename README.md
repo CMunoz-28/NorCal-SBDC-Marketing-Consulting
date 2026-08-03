@@ -56,7 +56,7 @@ Each folder contains deliverables produced across advising sessions. Work typica
 | Client | Industry | Focus | Folder |
 |---|---|---|---|
 | Client-A | Food & Beverage | Social media strategy, SEO keywords, website audit | [View](client-work/Client-A/) |
-| Client-B | B2B SaaS / Professional Services | Full marketing strategy, LinkedIn growth, CRM and email setup, SEO audit | [View](client-work/Client-B/) |
+| Client-B | B2B Professional Services | Full marketing strategy, LinkedIn growth, CRM and email setup, SEO audit | [View](client-work/Client-B/) |
 | Client-C | Professional Services | CRM walkthrough, social scheduling setup, session deliverables | [View](client-work/Client-C/) |
 | Client-D | Nonprofit / Community Services | Marketing strategy, technical SEO audit | [View](client-work/Client-D/) |
 | Client-E | Local Service Business | AI-assisted outreach guide for local customer acquisition | [View](client-work/Client-E/) |
