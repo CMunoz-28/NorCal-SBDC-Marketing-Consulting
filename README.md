@@ -23,7 +23,7 @@ Client names have been anonymized to protect confidentiality.
 | | |
 |---|---|
 | **Clients advised** | 13+ total across 8 industries |
-| **Deliverables produced** | 45+ strategy docs, audits, guides, and templates |
+| **Deliverables produced** | 48+ strategy docs, audits, guides, and templates |
 | **Tools implemented** | Zoho CRM, Buffer, Google Ads, Meta Ads, SEMrush, Google Search Console |
 | **Frameworks developed** | RFM segmentation, patient outreach, retention content, paid media reporting, social media strategy |
 | **Industries served** | Healthcare, Food & Beverage, Education, B2B Services, Retail, Nonprofit, Language Services, Beauty & Wellness |
@@ -35,15 +35,15 @@ Client names have been anonymized to protect confidentiality.
 ```
 ├── client-work/
 │   ├── Client-A/   — Social media strategy, SEO keywords, website audit, one-pager
-│   ├── Client-B/   — Full marketing strategy, LinkedIn strategy, CRM/social tools, session battle plan
+│   ├── Client-B/   — Full marketing strategy, LinkedIn strategy, CRM/social tools, session battle plan, SEO audit
 │   ├── Client-C/   — CRM walkthrough, social scheduling setup, session deliverables
 │   ├── Client-D/   — Marketing strategy, website SEO audit
 │   ├── Client-E/   — AI-assisted outreach guide
-│   ├── Client-F/   — Session prep, ad platform comparison, Instagram content calendar
+│   ├── Client-F/   — Session prep, ad platform comparison, Instagram content calendar, market research brief
 │   └── Client-G/   — SEO & messaging audit, patient outreach strategy, social media strategy, retention post templates
 │
 └── internal-tools/
-    ├── templates/  — 19 reusable frameworks built for client engagements
+    ├── templates/  — 20 reusable frameworks built for client engagements
     └── trackers/   — 14 planning, budgeting, and performance workbooks
 ```
 
@@ -56,11 +56,11 @@ Each folder contains deliverables produced across advising sessions. Work typica
 | Client | Industry | Focus | Folder |
 |---|---|---|---|
 | Client-A | Food & Beverage | Social media strategy, SEO keywords, website audit | [View](client-work/Client-A/) |
-| Client-B | B2B SaaS / Professional Services | Full marketing strategy, LinkedIn growth, CRM and email setup | [View](client-work/Client-B/) |
+| Client-B | B2B SaaS / Professional Services | Full marketing strategy, LinkedIn growth, CRM and email setup, SEO audit | [View](client-work/Client-B/) |
 | Client-C | Professional Services | CRM walkthrough, social scheduling setup, session deliverables | [View](client-work/Client-C/) |
 | Client-D | Nonprofit / Community Services | Marketing strategy, technical SEO audit | [View](client-work/Client-D/) |
 | Client-E | Local Service Business | AI-assisted outreach guide for local customer acquisition | [View](client-work/Client-E/) |
-| Client-F | Early Childhood Education | Ad platform comparison, Instagram content calendar, session prep | [View](client-work/Client-F/) |
+| Client-F | Early Childhood Education | Ad platform comparison, Instagram content calendar, session prep, market research brief | [View](client-work/Client-F/) |
 | Client-G | Healthcare / Chiropractic | SEO audit, patient outreach strategy, social media strategy, retention content | [View](client-work/Client-G/) |
 
 ---
@@ -73,7 +73,7 @@ Reusable frameworks and trackers developed to support structured, consistent cli
 
 | Type | Count | Contents |
 |---|---|---|
-| Templates | 19 | Strategy docs, audit frameworks, reporting templates, operational agreements, and segmentation guides |
+| Templates | 20 | Strategy docs, audit frameworks, reporting templates, operational agreements, segmentation guides, and SEO methodology |
 | Trackers | 14 | Excel workbooks for planning, budgeting, SEO audits, RFM segmentation, and performance reporting |
 
 ---
