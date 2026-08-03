@@ -22,6 +22,7 @@ Ready-to-deploy frameworks for client-facing strategy, reporting, and operations
 | `PaidMedia_Performance_Report.docx` | Paid media reporting framework covering Google Ads and Meta |
 | `AB_Test_Results_Report.docx` | A/B test results documentation and analysis template |
 | `Market_Research_Report_Template.docx` | Structured market research report template |
+| `SEO_Audit_Methodology.docx` | Multi-client SEO audit methodology — framework, scoring criteria, and prioritization approach used across engagements |
 | `SBDC_Blog_Topic_Briefs.md` | Content briefs for SBDC blog and educational content |
 | `Contract_Terms.md` | California-compliant freelance services agreement (11 clauses) |
 | `Scope_of_Work_Template.md` | SOW template with objectives, deliverables, timeline, and payment terms |
