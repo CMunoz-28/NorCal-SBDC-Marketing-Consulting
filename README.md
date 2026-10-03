@@ -4,7 +4,12 @@
 ![Clients](https://img.shields.io/badge/Clients%20Advised-15%2B-brightgreen)
 ![Deliverables](https://img.shields.io/badge/Deliverables-30%2B-orange)
 ![Tools](https://img.shields.io/badge/Tools-SEO%20%7C%20CRM%20%7C%20Paid%20Media%20%7C%20Analytics-lightgrey)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Status](https://img.shields.io/badge/Status-Completed-lightgrey)
+![Engagement](https://img.shields.io/badge/Engagement-Jan%202026%20–%20Oct%202026-informational)
+
+---
+
+> **Note:** This repository documents a completed consulting engagement. All work shown was produced during my tenure as a Marketing Advisor at the NorCal East Bay SBDC (January 2026 – October 1, 2026). Client names have been anonymized to protect confidentiality. Deliverables are shared here as portfolio samples with permission.
 
 ---
 
@@ -12,7 +17,10 @@
 
 This repository documents marketing consulting work completed as a **Marketing Advisor** at the [NorCal Small Business Development Center (SBDC)](https://norcalsbdc.org/), part of the [America's SBDC Network](https://americassbdc.org/), funded through a cooperative agreement with the [U.S. Small Business Administration (SBA)](https://www.sba.gov/).
 
-The SBDC provides no-cost, confidential business advising and education to small business owners across Northern California. As an advisor, I managed a portfolio of 15+ active clients simultaneously, delivering data-driven marketing strategy, technical audits, and execution-ready tools across a wide range of industries and business stages.
+The SBDC provides no-cost, confidential business advising and education to small business owners across Northern California. During this engagement, I managed a portfolio of 15+ clients simultaneously, delivering data-driven marketing strategy, technical audits, and execution-ready tools across a wide range of industries and business stages.
+
+**Engagement period:** January 2026 – October 1, 2026
+**Location:** East Bay, Northern California
 
 Client names have been anonymized to protect confidentiality.
 
@@ -22,7 +30,7 @@ Client names have been anonymized to protect confidentiality.
 
 | | |
 |---|---|
-| **Clients advised** | 15+ active clients across healthcare, e-commerce, specialty retail, food & beverage, professional services, fitness, language services, and early childhood education |
+| **Clients advised** | 15+ clients across healthcare, e-commerce, specialty retail, food & beverage, professional services, fitness, language services, and early childhood education |
 | **Deliverables produced** | 30+ professional marketing deliverables including SEO audits, social media strategies, e-commerce funnel analyses, customer segmentation models, paid media performance reports, and go-to-market frameworks |
 | **Campaign outcome** | Guided a specialty food e-commerce client to a **4.8% Facebook ad CTR** — exceeding the 0.9% industry average by 5× |
 | **Segmentation model** | Built an 8-segment RFM model with behavioral profiles, revenue distribution analysis, and a color-coded segment activation roadmap |
@@ -52,7 +60,7 @@ Client names have been anonymized to protect confidentiality.
 
 ## Client Work
 
-Each folder contains deliverables produced across advising sessions. Work typically spanned discovery and audit, strategy development, tool implementation, and execution support.
+Each folder contains deliverables produced across advising sessions during the engagement period. Work typically spanned discovery and audit, strategy development, tool implementation, and execution support.
 
 | Client | Industry | Focus |
 |---|---|---|
@@ -138,8 +146,23 @@ The [NorCal Small Business Development Center](https://norcalsbdc.org/) serves s
 
 ---
 
+## Currently Available For
+
+I am now an independent marketing consultant and analyst open to freelance engagements. My areas of focus include:
+
+- **Digital marketing strategy** — channel strategy, content planning, go-to-market frameworks
+- **Marketing analytics** — paid media performance, customer segmentation, RFM modeling, dashboards
+- **AI-assisted content workflows** — building efficient content systems using Claude, Canva AI, and scheduling tools
+- **Technical SEO** — audits, structured data, GEO/AI search readiness
+- **CRM implementation** — Zoho CRM setup, pipeline design, lead management
+
+📩 Reach out via [LinkedIn](https://www.linkedin.com/in/carlos-m27/) or [carlosamunoz.com](https://carlosamunoz.com)
+
+---
+
 **Carlos Muñoz**
 MS, Marketing Analytics — California State University, East Bay
-Marketing Advisor · NorCal SBDC · 2025–2026
+Former Marketing Advisor · NorCal East Bay SBDC · January 2026 – October 2026
+Independent Marketing Consultant & Analyst
 
 [LinkedIn](https://www.linkedin.com/in/carlos-m27/) · [GitHub](https://github.com/CMunoz-28) · [Portfolio](https://carlosamunoz.com)
