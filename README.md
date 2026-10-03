@@ -1,6 +1,6 @@
 # NorCal SBDC — Marketing Consulting Work
 
-![Role](https://img.shields.io/badge/Role-Marketing%20Advisor-blue)
+![Role](https://img.shields.io/badge/Role-Former%20Marketing%20Advisor-blue)
 ![Clients](https://img.shields.io/badge/Clients%20Advised-15%2B-brightgreen)
 ![Deliverables](https://img.shields.io/badge/Deliverables-30%2B-orange)
 ![Tools](https://img.shields.io/badge/Tools-SEO%20%7C%20CRM%20%7C%20Paid%20Media%20%7C%20Analytics-lightgrey)
