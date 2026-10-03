@@ -1,6 +1,6 @@
 # SBDC Blog Topic Briefs
-**Author: Carlos Munoz | Marketing Advisor, East Bay SBDC**
-*All client details anonymized. Based on real advisory work conducted in 2025-2026.*
+**Author: Carlos Munoz | Former Marketing Advisor, NorCal East Bay SBDC (Jan–Oct 2026)**
+*All client details anonymized. Based on real advisory work conducted during the engagement period January–October 2026.*
 
 ---
 
