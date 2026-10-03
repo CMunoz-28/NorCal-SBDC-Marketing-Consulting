@@ -140,6 +140,22 @@ Conducted competitive research on the California TK expansion and its impact on 
 
 ---
 
+## Sample Work
+
+Visual samples from deliverables produced during the engagement.
+
+**E-Commerce Funnel Analysis**
+
+![E-Commerce Funnel Metrics](https://raw.githubusercontent.com/CMunoz-28/NorCal-SBDC-Marketing-Consulting/main/internal-tools/templates/ecommerce-funnel-metrics.jpg)
+
+![E-Commerce Funnel — Sleek View](https://raw.githubusercontent.com/CMunoz-28/NorCal-SBDC-Marketing-Consulting/main/internal-tools/templates/ecommerce-funnel-sleek.jpg)
+
+**Marketing Analytics Funnel**
+
+![Marketing Analytics Funnel](https://raw.githubusercontent.com/CMunoz-28/NorCal-SBDC-Marketing-Consulting/main/internal-tools/templates/marketing-analytics-funnel.jpg)
+
+---
+
 ## About the SBDC
 
 The [NorCal Small Business Development Center](https://norcalsbdc.org/) serves small business owners across Northern California with free, confidential advising. It is part of the [America's SBDC Network](https://americassbdc.org/) — the largest network of small business assistance in the United States — and is funded in part through a cooperative agreement with the [U.S. Small Business Administration](https://www.sba.gov/).
